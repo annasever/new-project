@@ -1,4 +1,4 @@
-ira Ticket: PROM-42164:
+Jira Ticket: PROM-42164:
 
 Task Title: Set up new Git repository and create development branch for 'new-project'
 
