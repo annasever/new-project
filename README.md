@@ -16,9 +16,11 @@ The changes from the "development" branch are merged into the "main" branch succ
 
 
 Definition of Done (DoD):
-# gcb developmen
-# git add README.md
-# git commit -m git commit -m "Resolve merge conflict: remove README.md"
-# git push 
+```
+gcb development
+git add README.md
+git commit -m git commit -m "Resolve merge conflict: remove README.md"
+git push 
+```
 
 Link to new-project Readme file
